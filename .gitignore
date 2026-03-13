@@ -1,0 +1,50 @@
+# =========================
+# DATASETS
+# =========================
+data/
+datasets/
+Transfer Learning/data/
+*.zip
+*.tar
+*.tgz
+*.gz
+
+# =========================
+# PYTHON CACHE
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# JUPYTER NOTEBOOK
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# TRAINED MODELS / CHECKPOINTS
+# =========================
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.model
+
+# =========================
+# VIRTUAL ENVIRONMENTS
+# =========================
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# LOG FILES
+# =========================
+*.log
