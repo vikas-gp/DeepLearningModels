@@ -48,3 +48,16 @@ Thumbs.db
 # LOG FILES
 # =========================
 *.log
+
+# =========================
+# KAGGLE API KEY (CRITICAL)
+# =========================
+kaggle.json
+
+
+# =========================
+# GENERATED OUTPUTS (GAN)
+# =========================
+training_images/
+*.png
+*.jpg
