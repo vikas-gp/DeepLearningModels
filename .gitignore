@@ -25,7 +25,7 @@ __pycache__/
 # TRAINED MODELS / CHECKPOINTS
 # =========================
 *.pt
-*.pth
+#*.pth        -----------------------------------------
 *.ckpt
 *.h5
 *.model
