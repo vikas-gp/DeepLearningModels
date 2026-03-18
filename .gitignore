@@ -61,3 +61,6 @@ kaggle.json
 training_images/
 *.png
 *.jpg
+
+GAN/stylegan2-ada-pytorch/
+*.pkl
